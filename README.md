@@ -23,6 +23,7 @@ Advanced_functions
     C:\Users\user\Documents\GitHub\HW_Advanced_functions\main.py 
     ['level', 'deified', 'racecar']
 
+    start_number = 168    
 
 168
 84
@@ -36,6 +37,7 @@ Advanced_functions
 2
 1
 
+    numbers = [1, 2, 3, 4, 5, 16, 25, 50, 81, 1156, 123, 300]
 
     Направление округления - ближайшее целое:
     Среднее время выполнения функции 'process_numbers': 0.0000016005130002 секунд
