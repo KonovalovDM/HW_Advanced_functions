@@ -1,4 +1,4 @@
-# Задание 1
+# Задача 1
 
 def get_palindromes(strings):
     # Используем лямбда-функцию для проверки на палиндром
@@ -14,7 +14,7 @@ print(palindromes)  # ['level', 'deified', 'racecar']
 print("\n") # Отступ в две строки
 
 
-# Задание 2
+# Задача 2
 
 def collatz_sequence(start):
     """Генератор для последовательности Коллатца."""
